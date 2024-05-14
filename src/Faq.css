@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #fff;
+    background-color: #348197;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
     display: flex;
@@ -12,7 +12,8 @@
   }
   
   .logo img {
-    height: 30px;
+    height: 35px;
+    color: white;
     filter: invert(1);
   }
   
@@ -29,7 +30,7 @@
   
   .menu a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
   }
 
   .login-box {
@@ -49,8 +50,9 @@
   .faq-banner {
     position: fixed;
     top: 80px;
-    left: 680px;
-    width: 100%;
+    left: 670px;
+    width: 50%;
+    height: 200px;
   }
 
   .answer {

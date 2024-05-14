@@ -46,7 +46,7 @@ const FAQ = () => {
 
       <div className="faq-content">
         <div className="faq-banner">
-          <img src="/pict-1.png" alt="Banner FAQ" />
+          <img src="/pict-3.png" alt="Banner FAQ" />
         </div>
         <div className="faq-questions">
           <h2>Pertanyaan Umum</h2>
